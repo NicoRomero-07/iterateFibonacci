@@ -18,6 +18,10 @@ public class FibonaciTest {
     -1 --> Exception
     */
 
+    /*
+        Este programa realiza los casos de prueba sobre la clase Fibonacci.java
+    */
+
 
     private Fibonacci fibonacci;
     @BeforeEach
